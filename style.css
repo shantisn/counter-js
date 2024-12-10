@@ -1,0 +1,42 @@
+.head{
+
+background-color: aqua;
+  display:flex;
+  flex-direction: column;
+ justify-content: center;
+ align-items: center;
+   font-size: large;
+}
+.main h1{
+    color: rgb(3, 49, 49) 
+ }
+ .one h1{
+    
+         color: red;
+     
+ }
+ .two h1{
+    
+         color:purple;
+     
+ }
+ .three h1{
+    
+         color:rgb(4, 78, 10);
+     
+ }
+ .four h1{
+    
+         color: blue;
+     
+ }
+ .five h1{
+    
+         color: rgb(53, 2, 19);
+     
+ }
+ .six h1{
+    
+         color: rgb(188, 190, 14);
+     
+ }
